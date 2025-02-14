@@ -641,35 +641,8 @@ function OrionLib:MakeWindow(WindowConfig)
                 MainWindow.Visible = false
                 MobileReopenButton.Visible = true
                 UIHidden = true
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "再见";Text = "UI作者:半只妹控";Icon = "rbxassetid://133435190519692"})Duration = 8;
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "再见";Text = "半只妹控";Icon = "rbxassetid://133435190519692"})Duration = 8;
     local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://6647898215"
-sound:Play()
-local sound = Instance.new("Sound", workspace)
 sound.SoundId = "rbxassetid://6647898215"
 sound:Play()
 local sound = Instance.new("Sound", workspace)
